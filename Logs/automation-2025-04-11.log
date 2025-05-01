@@ -1,0 +1,57 @@
+17:20:16.996 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.004 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.005 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.007 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.011 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.012 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.015 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.016 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.018 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+17:20:17.020 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+17:20:17.027 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\AppData\Local\Temp\testng-eclipse-466858021\testng-customsuite.xml
+
+17:20:17.044 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+17:20:17.259 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@4212a0c8: 83 ms
+17:20:17.275 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@4189d70b: 16 ms
+17:20:17.288 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@7b8233cd: 13 ms
+17:20:17.307 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@60641ec8: 19 ms
+17:20:17.318 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@7756c3cd: 11 ms
+17:20:17.319 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2313052e: 0 ms
+17:20:24.423 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+17:20:24.657 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+17:20:28.041 [main] INFO  testCase.TC_002_Login - ** start program**
+17:23:02.230 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+17:23:02.399 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+17:23:05.937 [main] INFO  testCase.TC_002_Login - ** start program**
+17:23:37.372 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+17:23:37.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+17:23:40.546 [main] INFO  testCase.TC_002_Login - ** start program**
+17:23:44.671 [main] INFO  testCase.TC_002_Login - ** start displeyed1 program**
+17:23:47.733 [main] INFO  testCase.TC_002_Login - ** start displeyed2 program**
+17:23:47.749 [main] INFO  testCase.TC_002_Login - ** start displeyed3 program**
+17:23:47.749 [main] INFO  testCase.TC_002_Login - ** end program**
+17:23:57.520 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+17:23:57.685 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+17:24:00.989 [main] INFO  testCase.TC_002_Login - ** start program**
+17:24:15.357 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+17:24:15.525 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+

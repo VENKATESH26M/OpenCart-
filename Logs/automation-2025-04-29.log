@@ -1,0 +1,65 @@
+16:35:45.302 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@45e37a7e: 9 ms
+16:35:45.305 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62452cc9: 1 ms
+16:36:27.949 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+16:36:28.133 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+19:35:55.667 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+19:35:55.931 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+19:36:05.017 [main] INFO  testCase.TC_001_AccoungtRegistration - ***start program****
+19:36:05.158 [main] INFO  testCase.TC_001_AccoungtRegistration - cliking myAccount
+19:36:05.918 [main] INFO  testCase.TC_001_AccoungtRegistration - clicking register link
+19:36:05.924 [main] INFO  testCase.TC_001_AccoungtRegistration - providing customer details
+19:36:19.631 [main] ERROR testCase.TC_001_AccoungtRegistration - test error.....
+19:36:19.632 [main] DEBUG testCase.TC_001_AccoungtRegistration - test debug....
+19:37:18.499 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+19:37:18.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+19:37:23.746 [main] INFO  testCase.TC_001_AccoungtRegistration - ***start program****
+19:37:23.896 [main] INFO  testCase.TC_001_AccoungtRegistration - cliking myAccount
+19:37:24.561 [main] INFO  testCase.TC_001_AccoungtRegistration - clicking register link
+19:37:24.567 [main] INFO  testCase.TC_001_AccoungtRegistration - providing customer details
+19:37:54.607 [main] ERROR testCase.TC_001_AccoungtRegistration - test error.....
+19:37:54.609 [main] DEBUG testCase.TC_001_AccoungtRegistration - test debug....
+19:40:57.673 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+19:40:57.930 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+19:41:02.705 [main] INFO  testCase.TC_001_AccoungtRegistration - ***start program****
+19:41:02.848 [main] INFO  testCase.TC_001_AccoungtRegistration - cliking myAccount
+19:41:03.472 [main] INFO  testCase.TC_001_AccoungtRegistration - clicking register link
+19:41:03.480 [main] INFO  testCase.TC_001_AccoungtRegistration - providing customer details
+19:41:33.549 [main] ERROR testCase.TC_001_AccoungtRegistration - test error.....
+19:41:33.551 [main] DEBUG testCase.TC_001_AccoungtRegistration - test debug....
+19:46:27.679 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml"
+19:46:27.933 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\master.xml
+
+19:46:32.583 [main] INFO  testCase.TC_001_AccoungtRegistration - ***start program****
+19:46:32.733 [main] INFO  testCase.TC_001_AccoungtRegistration - cliking myAccount
+19:46:33.284 [main] INFO  testCase.TC_001_AccoungtRegistration - clicking register link
+19:46:33.288 [main] INFO  testCase.TC_001_AccoungtRegistration - providing customer details
+19:46:33.760 [main] INFO  testCase.TC_001_AccoungtRegistration - providing valid email ,password
+19:46:34.325 [main] INFO  testCase.TC_001_AccoungtRegistration - ** test is complited
+19:47:23.860 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\parallel.xml"
+19:47:24.431 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\parallel.xml
+
+19:47:34.526 [main] INFO  testCase.TC_001_AccoungtRegistration - ***start program****
+19:47:34.732 [main] INFO  testCase.TC_001_AccoungtRegistration - cliking myAccount
+19:47:35.397 [main] INFO  testCase.TC_001_AccoungtRegistration - clicking register link
+19:47:35.409 [main] INFO  testCase.TC_001_AccoungtRegistration - providing customer details
+19:48:10.399 [main] ERROR testCase.TC_001_AccoungtRegistration - test error.....
+19:48:10.399 [main] DEBUG testCase.TC_001_AccoungtRegistration - test debug....
+19:48:14.551 [main] INFO  testCase.TC_001_AccoungtRegistration - ***start program****
+19:48:14.589 [main] ERROR testCase.TC_001_AccoungtRegistration - test error.....
+19:48:14.591 [main] DEBUG testCase.TC_001_AccoungtRegistration - test debug....
+16:33:01.024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\VENKATESH\Desktop\core java\OpenCart\docker.xml"
+16:33:01.269 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\VENKATESH\Desktop\core java\OpenCart\docker.xml
+
+16:33:01.360 [main] INFO  testCase.TC_001_AccoungtRegistration - ***start program****
+16:33:01.394 [main] ERROR testCase.TC_001_AccoungtRegistration - test error.....
